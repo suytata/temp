@@ -1,0 +1,12 @@
+{ 
+"primary": { 
+              "Mobile":1111111,
+              "Email":"gg@gg"
+            },
+"dependecy": [
+                { "Mobile":1111111,
+                  "Email":"gg@gg"},
+                { "Mobile":1111111,
+                  "Email":"gg@gg" }
+             ]
+}
